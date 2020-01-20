@@ -1,7 +1,7 @@
 planning de travail
-lundi
-mardi
-mercredi
-jeudi
-vendredi
-samedi & dimanche
+lundi = cobol
+mardi= cobol
+mercredi= cobol
+jeudi= cobol
+vendredi= cobol
+samedi & dimanche= cobol
